@@ -1,0 +1,15 @@
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\bin\Debug\net6.0\CalculoDeMedia2.exe
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\bin\Debug\net6.0\CalculoDeMedia2.deps.json
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\bin\Debug\net6.0\CalculoDeMedia2.runtimeconfig.json
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\bin\Debug\net6.0\CalculoDeMedia2.dll
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\bin\Debug\net6.0\CalculoDeMedia2.pdb
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.csproj.AssemblyReference.cache
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.AssemblyInfoInputs.cache
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.AssemblyInfo.cs
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.csproj.CoreCompileInputs.cache
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.dll
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\refint\CalculoDeMedia2.dll
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.pdb
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\CalculoDeMedia2.genruntimeconfig.cache
+C:\Users\dudab\Desktop\DS Curso\CalculoDeMedia2\CalculoDeMedia2\obj\Debug\net6.0\ref\CalculoDeMedia2.dll
