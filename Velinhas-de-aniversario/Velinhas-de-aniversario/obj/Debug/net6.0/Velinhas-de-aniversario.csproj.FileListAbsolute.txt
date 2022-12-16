@@ -1,0 +1,15 @@
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\bin\Debug\net6.0\Velinhas-de-aniversario.exe
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\bin\Debug\net6.0\Velinhas-de-aniversario.deps.json
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\bin\Debug\net6.0\Velinhas-de-aniversario.runtimeconfig.json
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\bin\Debug\net6.0\Velinhas-de-aniversario.dll
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\bin\Debug\net6.0\Velinhas-de-aniversario.pdb
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.csproj.AssemblyReference.cache
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.AssemblyInfoInputs.cache
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.AssemblyInfo.cs
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.csproj.CoreCompileInputs.cache
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.dll
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\refint\Velinhas-de-aniversario.dll
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.pdb
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\Velinhas-de-aniversario.genruntimeconfig.cache
+C:\Users\dudab\Desktop\DS Curso\Velinhas-de-aniversario\Velinhas-de-aniversario\obj\Debug\net6.0\ref\Velinhas-de-aniversario.dll
